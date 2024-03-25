@@ -25,6 +25,6 @@ anyhow = { version = "1.0.56", default-features = false }
 thiserror = { version = "1.0.43", optional = true }
 thiserror-no-std = { version = "2.0.2", default-features = false }
 log = "0.4.16"
-coap-lite = { version = "0.9.0", default-features = false }
+coap-lite = { version = "0.11", default-features = false }
 rand = { version = "0.8.5", features = [ "alloc" ] }
 hashbrown = "0.14.0"

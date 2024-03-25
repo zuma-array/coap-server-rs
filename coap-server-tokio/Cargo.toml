@@ -23,7 +23,7 @@ futures = { version = "0.3.21", default-features = false }
 async-trait = "0.1.53"
 pin-project = "1.0.10"
 log = "0.4.16"
-coap-lite = { version = "0.9.0", default-features = false }
+coap-lite = { version = "0.11", default-features = false }
 
 [dev-dependencies]
 async-stream = "0.3.3"
